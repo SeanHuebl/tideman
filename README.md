@@ -1,4 +1,4 @@
-# tideman
+# Tideman
 
 Project: Tideman | Language: C
 
